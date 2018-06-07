@@ -1,4 +1,2 @@
 theme: jekyll-theme-time-machine
-webrick:
-  headers:
-    My-Header: Welcome to ChainTrust-Lab
+title: Welcome to ChainTrust-Lab
