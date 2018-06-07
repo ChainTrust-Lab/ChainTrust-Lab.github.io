@@ -1,8 +1,5 @@
-title: Welcome to ChainTrust-Lab's Homepage
----
-
 ## Introduction
-This is ChainTrust-Lab's homepage. 
+This is ChainTrust-Lab's homepage. We will share our findings in blockchain security here.
 
 ## Vulnerability Reports
 Coming soon...
