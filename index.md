@@ -3,14 +3,14 @@
 This is ChainTrust-Lab's homepage. We will share our findings in blockchain security here.
 
 ## Vulnerability Reports
-<i>Full report could be found at <a href="https://www.secrss.com/articles/3289">here</a>.</i><br/>
+Full report could be found at [here](https://www.secrss.com/articles/3289).
 
-<br/><li><b>UnderSell:</b> CVE-2018-11811
-<br/><li><b>ownerUnderflow:</b> CVE-2018-11687
-<br/><li><b>mintAny:</b> CVE-2018-11812
-<br/><li><b>overMint:</b> CVE-2018-11809
-<br/><li><b>allocateAny:</b> CVE-2018-11810
-<br/><li><b>overBuy:</b> CVE-2018-11809
+  * **UnderSell:** CVE-2018-11811
+  * **ownerUnderflow:** CVE-2018-11687
+  * **mintAny:** CVE-2018-11812
+  * **overMint:** CVE-2018-11809
+  * **allocateAny:** CVE-2018-11810
+  * **overBuy:** CVE-2018-11809
 
 ## Defense Solutions
 Coming soon...
